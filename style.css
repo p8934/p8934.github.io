@@ -1012,7 +1012,9 @@ body.dark-mode .experience-section{
   .social-icons {
     text-align: center;
   }
-  
+   .cursor-circle {
+        display: none;
+      }     
 }
 
 /* 📱 Responsive - mobile screens */
@@ -1101,3 +1103,4 @@ body.dark-mode .experience-section{
       }
 
     }
+
