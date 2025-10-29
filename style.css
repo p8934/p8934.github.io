@@ -1032,6 +1032,7 @@ body.dark-mode .experience-section{
 
   .hireme-image img {
     width: 250px;
+    margin-top: 5px;
     object-fit: cover;
     height: 350px;
     margin-bottom: 20px;
@@ -1098,4 +1099,5 @@ body.dark-mode .experience-section{
         margin-right:  30px;
         margin-top: 30px;
       }
+
     }
